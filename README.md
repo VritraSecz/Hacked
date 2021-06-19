@@ -72,6 +72,6 @@ apt-get update -y;apt-get upgrade -y;apt-get install python -y;apt-get intall gi
 ## Popular repository:
 <h3><b><i>🏆 Some Repository :</i></b></h3>
 
-<p align="center"><a href="https://github.com/MrHacker-X/SploitX.git/"><img title="Hack-OS" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHacker-X&repo=Hack-OS&theme=radical"></a>
-<p align="center"><a href="https://github.com/MrHacker-X/CloneWeb.git/"><img title="Traper-X" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHacker-X&repo=Traper-X&theme=radical"></a>
-<p align="center"><a href="https://github.com/MrHacker-X/termux-fingerprint.git/"><img title="Termux-Shell" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHacker-X&repo=Termux-Shell&theme=radical"></a>
+<p align="center"><a href="https://github.com/MrHacker-X/SploitX.git/"><img title="SploitX" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHacker-X&repo=SploitX&theme=radical"></a>
+<p align="center"><a href="https://github.com/MrHacker-X/CloneWeb.git/"><img title="CloneWeb" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHacker-X&repo=CloneWeb&theme=radical"></a>
+<p align="center"><a href="https://github.com/MrHacker-X/termux-fingerprint.git/"><img title="termux-fingerprint" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHacker-X&repo=termux-fingerprint&theme=radical"></a>
