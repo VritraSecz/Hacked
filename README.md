@@ -69,8 +69,7 @@ apt-get update -y;apt-get upgrade -y;apt-get install python -y;apt-get install g
 <a href="https://youtube.com/c/Sololex/"><img align="left" title="YouTube" alt="YouTube" width="30px" src="https://raw.githubusercontent.com/MrHacker-X/MrHacker-X/main/assets/youtube.png" /></a>
 
 #
-## Popular repository:
-<h3><b><i>🏆 Some Repository :</i></b></h3>
+<h3><b><i>🏆 Some popular Repository :</i></b></h3>
 
 <p align="center"><a href="https://github.com/MrHacker-X/SploitX.git/"><img title="SploitX" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHacker-X&repo=SploitX&theme=radical"></a>
 <p align="center"><a href="https://github.com/MrHacker-X/CloneWeb.git/"><img title="CloneWeb" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHacker-X&repo=CloneWeb&theme=radical"></a>
