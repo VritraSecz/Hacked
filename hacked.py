@@ -19288,7 +19288,7 @@ elif tools == "5" or tools == "05":
 		elif social == "3" or social == "03":
 			print("Ok, Opening my YouTube channel in your device")
 			os.system("sleep 1.0")
-			os.system("termux-open-url https://youtube.com/c/Sololex/")
+			os.system("termux-open-url https://youtube.com/c/@Technolex/")
 			os.system("python hacked.py")
 			break
 		elif social == "95":
