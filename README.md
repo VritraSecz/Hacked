@@ -22,13 +22,11 @@ For Examples
 ## Operating System Requirements:
 + Tool Hacked works on any of the following operating systems:
 * Android (Using the Termux App)
-* Linux (Debian Based Systems)
-* Unix
+
 
 ## Tested on:
 + Termux
-+ Unix
-+ Linux
+
 
 ## Installation:
 + Following are the complete installation commands, Enter all commands one by one in your terminal
