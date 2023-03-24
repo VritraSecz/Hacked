@@ -5003,7 +5003,7 @@ def distributedbtcmer():
 def messosbtcmer():
 	print(w+"Mesos-Bitcoin-Miner"+g+" is Installing.....\n"+g)
 	os.system("apt-get update -y;apt-get upgrade -y;apt-get install git -y;git clone https://github.com/derekchiang/Mesos-Bitcoin-Miner.git/;mv Mesos-Bitcoin-Miner $HOME")
-	rint(w+"\nMesos-Bitcoin-Miner"+g+" is Installed and saved in"+w+" home "+g+"directory")
+	print(w+"\nMesos-Bitcoin-Miner"+g+" is Installed and saved in"+w+" home "+g+"directory")
 	input(b+"\npress ENTER to continue")
 	os.system("clear;python hacked.py")
 #498
@@ -11141,7 +11141,7 @@ if tools == '01' or tools == '1':
 	print(w+"\nDistributed-Bitcoin-Miner"+g+" is Installed and saved in"+w+" home "+g+"directory")
 	print(w+"Mesos-Bitcoin-Miner"+g+" is Installing.....\n"+g)
 	os.system("git clone https://github.com/derekchiang/Mesos-Bitcoin-Miner.git/;mv Mesos-Bitcoin-Miner $HOME")
-	rint(w+"\nMesos-Bitcoin-Miner"+g+" is Installed and saved in"+w+" home "+g+"directory")
+	print(w+"\nMesos-Bitcoin-Miner"+g+" is Installed and saved in"+w+" home "+g+"directory")
 	print(w+"git_psibot_hacking"+g+" is Installing.....\n"+g)
 	os.system("git clone https://github.com/psibot/git_psibot_hacking.git/;mv git_psibot_hacking $HOME")
 	print(w+"\ngit_psibot_hacking"+g+" is Installed and saved in"+w+" home "+g+"directory")
@@ -18347,7 +18347,7 @@ elif tools == '03' or tools == '3':
 					shodanwave()
 					break
 				elif Ssss == '24':
-					shortuii(j)
+					shortuii()
 					break
 				elif Ssss == '25':
 					showloris()
@@ -18879,7 +18879,7 @@ elif tools == '03' or tools == '3':
 				os.system('clear')
 				Vvvv = input(Vv)
 				if Vvvv == '01' or Vvvv == '1':
-					venonscn()
+					venonscnr()
 					break
 				elif Vvvv == '02' or Vvvv == '2':
 					vbscan()
