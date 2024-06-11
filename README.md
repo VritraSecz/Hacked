@@ -35,40 +35,25 @@ For Examples
 + ```apt-get install git -y```
 + ```apt-get install python -y```
 + ```apt-get install figlet -y```
-+ ```git clone https://github.com/MrHacker-X/Hacked.git/```
++ ```git clone https://github.com/VritraSecz/Hacked.git/```
 + ```cd Hacked```
 + ```chmod +x *```
 + ```python hacked.py```
 
 ## Single line Command:
 ```
-apt-get update -y;apt-get upgrade -y;apt-get install python -y;apt-get install git -y;apt-get install figlet -y;git clone https://github.com/MrHacker-X/Hacked.git/;cd Hacked;chmod +x *;python hacked.py
+apt-get update -y;apt-get upgrade -y;apt-get install python -y;apt-get install git -y;apt-get install figlet -y;git clone https://github.com/VritraSecz/Hacked.git/;cd Hacked;chmod +x *;python hacked.py
 ```
 
 ## Some screenshots:
 ### Main menu
-![photo](https://raw.githubusercontent.com/MrHacker-X/Hacked/main/.img/menu.jpg?token=AQW5VDIRK5TSH3BNP6BINN3AZV33M)
+![photo](https://i.ibb.co/dWWGH9Y/menu.jpg)
 ### Find tools by alphabetically
-![photo](https://raw.githubusercontent.com/MrHacker-X/Hacked/main/.img/alphabet.jpg?token=AQW5VDL4BKINV6XNJBYCBE3AZV74Y)
+![photo](https://i.ibb.co/QkTVQGS/alphabet.jpg)
 #### Install all tools in one click
-![photo](https://raw.githubusercontent.com/MrHacker-X/Hacked/main/.img/allinstall.jpg?token=AQW5VDML2RMYSPS67A3P7HLAZV766)
+![photo](https://i.ibb.co/zmQ6L7Z/allinstall.jpg)
 ### About
-![photo](https://raw.githubusercontent.com/MrHacker-X/Hacked/main/.img/about.jpg?token=AQW5VDKUX4DF54CJGVQIL5LAZWAAG)
-### Connect with us
-![photo](https://raw.githubusercontent.com/MrHacker-X/Hacked/main/.img/follow.jpg?token=AQW5VDLMXDK4OESFODJQSD3AZWAC2)
+![photo](https://i.ibb.co/0rW7SVm/about.jpg)
 
 ## Warning:
 + We are not responsible for any misuse or damage caused by this program. use this tool at your own risk!
-
-<h3><b><i>📡 Connect with us :</i></b></h3>
-<a href="https://github.com/MrHacker-X/"><img align="left" title="Github" alt="Github" width="30px" src="https://raw.githubusercontent.com/MrHacker-X/MrHacker-X/main/assets/github.png" /></a>
-<a href="https://instagram.com/mrhacker.x/"><img align="left" title="Instagram" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/MrHacker-X/MrHacker-X/main/assets/instagram.png" /></a>
-<a href="https://t.me/hackwithalex/"><img align="left" title="Telegram" alt="Telegram" width="30px" src="https://raw.githubusercontent.com/MrHacker-X/MrHacker-X/main/assets/telegram.png" /></a>
-<a href="https://youtube.com/@Technolex/"><img align="left" title="YouTube" alt="YouTube" width="30px" src="https://raw.githubusercontent.com/MrHacker-X/MrHacker-X/main/assets/youtube.png" /></a>
-
-#
-<h3><b><i>🏆 Some popular Repository :</i></b></h3>
-
-<p align="center"><a href="https://github.com/MrHacker-X/SploitX.git/"><img title="SploitX" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHacker-X&repo=SploitX&theme=radical"></a>
-<p align="center"><a href="https://github.com/MrHacker-X/CloneWeb.git/"><img title="CloneWeb" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHacker-X&repo=CloneWeb&theme=radical"></a>
-<p align="center"><a href="https://github.com/MrHacker-X/termux-fingerprint.git/"><img title="termux-fingerprint" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHacker-X&repo=termux-fingerprint&theme=radical"></a>
